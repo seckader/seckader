@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Hey,%20I'm%20AbduKader&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20•%20Backend%20•%20DevOps%20•%20Cloud&descAlignY=58&descSize=16&animation=fadeIn" />
-
+<!-- Static header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=AbduKader&fontSize=40&fontColor=e6edf3&fontAlignY=55&desc=Full%20Stack%20•%20Backend%20•%20DevOps%20•%20Cloud&descAlignY=78&descSize=15&descColor=8b949e" />
+ 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+systems;Crafting+clean+%26+efficient+code;Always+learning;Open+to+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+systems;Crafting+clean+code;Always+learning;Open+to+new+opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ```bash
 {
-  "role"       : "Full Stack / Backend / DevOps Engineer",
+  "role"       : "Full Stack Developer",
   "location"   : "Montréal, QC 🇨🇦",
   "currently"  : "Building something awesome...",
 }
@@ -52,7 +52,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
@@ -71,6 +70,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=100&section=footer" />
+![footer](https://img.shields.io/badge/--0d1117?style=for-the-badge&labelColor=0d1117)
 
 </div>
