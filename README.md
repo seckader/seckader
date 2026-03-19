@@ -25,7 +25,7 @@
  "name"      : "Abdou Kader Seck",
  "role"      : "Full Stack Developer | Cloud & DevOps Engineer",
  "location"  : "Montréal, QC 🇨🇦",
- "education" : "MSc Computer Science @ Université de Sherbrooke | Network and Telecommunications Engineer @ ESMT Dakar"
+ "education" : "MSc Computer Science @ Université de Sherbrooke | Network & Telecommunications Engineer @ ESMT Dakar"
  "currently" : "Building something awesome...",
 }
 ```
